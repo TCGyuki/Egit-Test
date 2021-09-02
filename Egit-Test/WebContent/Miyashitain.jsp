@@ -1,12 +1,12 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page pageEncoding="Windows-31J"
+	 contentType="text/html;charset=Windows-31J" %>
 <html>
-<head><title>ãƒ¦ãƒ¼ã‚¶ãƒ¼ç™»éŒ²</title></head>
+<head><title>ƒ†[ƒU[“o˜^</title></head>
 <body>
-	<h1>ãƒ¦ãƒ¼ã‚¶ãƒ¼ç™»éŒ²</h1>
-	<form method='post' action='miyashitatest'>
-	ãƒ¦ãƒ¼ã‚¶ãƒ¼å<input type='text' name='name'><br>
-	<input type='submit' value='ç™»éŒ²'>
+	<h1>ƒ†[ƒU[“o˜^</h1>
+	<form method='post' action='nishidaservlet'>
+	ƒ†[ƒU[–¼<input type='text' name='name'><br>
+	<input type='submit' value='“o˜^'>
 	</form>
 </body>
 </html>
