@@ -9,4 +9,31 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
+  <servlet>
+        <servlet-name>nishida</servlet-name>
+        <jsp-file>/Nishida.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>nishida</servlet-name>
+        <url-pattern>/nishida</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>nishidaresult</servlet-name>
+        <jsp-file>/NishidaResult.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>nishidaresult</servlet-name>
+        <url-pattern>/nishidaresult</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>nishidaservlet</servlet-name>
+        <servlet-class>NishidaServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>nishidaservlet</servlet-name>
+        <url-pattern>/nishidaservlet</url-pattern>
+    </servlet-mapping>
 </web-app>

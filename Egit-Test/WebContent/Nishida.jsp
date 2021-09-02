@@ -1,7 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ page pageEncoding="Windows-31J"
+	 contentType="text/html;charset=Windows-31J" %>
 <html>
+<<<<<<< HEAD
+<head><title>ユーザー登録</title></head>
+=======
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
@@ -10,7 +12,13 @@
 縺ゅ≠縺ゅ≠縺ゅ≠
     
 </head>
+>>>>>>> refs/remotes/origin/master
 <body>
-
+	<h1>ユーザー登録</h1>
+	<form method='post' action='nishidaservlet'>
+	ユーザー名<input type='text' name='name'><br>
+	パスワード<input type='text' name='pass'><br>
+	<input type='submit' value='登録'>
+	</form>
 </body>
 </html>
