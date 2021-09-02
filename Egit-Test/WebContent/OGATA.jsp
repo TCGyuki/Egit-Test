@@ -8,7 +8,6 @@
 </head>
 <body>
 <h1>ユーザー登録</h1>
-	<form method='post' action='nishidaservlet'>
 	ユーザー名<input type='text' name='name'><br>
 	パスワード<input type='text' name='pass'><br>
 	<input type='submit' value='登録'>
