@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>KI N NO</title>
+<title>KINNO</title>
 </head>
 <body>
 Kinno
