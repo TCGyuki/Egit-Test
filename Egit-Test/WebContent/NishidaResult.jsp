@@ -5,6 +5,6 @@ contentType="text/html; charset=Windows-31J"%>
 <title>ログイン</title>
 </head>
 <body><h1>ログイン</h1>
-成功しました
+成功しましたしてないけどね
 </body>
 </html>
