@@ -11,6 +11,5 @@
 	ユーザー名<input type='text' name='name'><br>
 	パスワード<input type='text' name='pass'><br>
 	<input type='submit' value='登録'>
-	</form>
 </body>
 </html>
